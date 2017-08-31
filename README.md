@@ -8,7 +8,7 @@ The version of ComCheck documented here is: **v0.1.0**
 
 -----------------------------------------
 ####   TABLE OF CONTENTS   ####
-1. [What is ComCheck?](#what-is-radiuid)
+1. [What is ComCheck?](#what-is-comcheck)
 2. [Contributing](#contributing)
 
 
