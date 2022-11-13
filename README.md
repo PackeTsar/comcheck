@@ -23,4 +23,4 @@ If you would like to help out by contributing code or reporting issues, please d
 
 Visit the GitHub page (https://github.com/PackeTsar/comcheck) and either report an issue or fork the project, commit some changes, and submit a pull request.
 
-[logo]: http://www.packetsar.com/wp-content/uploads/comcheck-logo-100.png
+[logo]: /comcheck-logo-100.png
